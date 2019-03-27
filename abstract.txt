@@ -1,0 +1,19 @@
+Project Tag for Ecommerce website
+
+This project proposes an automatic tag assignment
+approach to various e-commerce products
+where tag allotment is done solely based
+on the visual features in the image. 
+The explosive growth of e-commerce products
+being sold online has made manual annotation
+infeasible. Without such tags it’s impossible
+for customers to be able to find these products.
+Hence a scalable approach catering to
+such large number of product images and allocating
+meaningful tags is essential and could
+be used to make an efficient tag based product
+retrieval system.
+In this project propose one such approach
+based on feature extraction using Deep
+Convolutional Neural Networks to learn descriptive
+semantic features from product images.
