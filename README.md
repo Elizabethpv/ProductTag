@@ -1,4 +1,4 @@
-# Product Taging for Ecommerce website
+# Product Tagging using CNN
 
 
 
